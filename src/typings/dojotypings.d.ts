@@ -1,0 +1,1 @@
+///<reference path="./@types/dojo-typings/index.d.ts"/>
